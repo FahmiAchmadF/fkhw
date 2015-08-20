@@ -1,0 +1,19 @@
+.centertop{
+	margin-top: 20% !important;
+}
+
+.p{
+	font-size: 16px !important;
+}
+.suntikfixed{
+	position: fixed !important;
+	left: 0 !important;
+}
+.suntikwidth{
+	width: 70% !important;
+}
+.textover{
+	height: 100px !important;
+	overflow: hidden !important;
+	text-overflow: ellipsis !important;
+}
